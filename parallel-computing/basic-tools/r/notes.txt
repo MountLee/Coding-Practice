@@ -1,0 +1,5 @@
+some tricks:
+
+allocate the record list before the for loop can reduce the running time
+
+combining results from lapply()? try do.call()
